@@ -19,9 +19,10 @@ This is the official website of the **JNN ACM Student Chapter**, designed to sho
 - **private env to update**
 ---
 
-## 🛡 License
+## License
 
-This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
+This project is licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).  
+It can be used and modified **for non-commercial purposes** with proper attribution.
 
 You are free to:
 
@@ -30,7 +31,6 @@ You are free to:
 
 **But not for commercial purposes.**
 
-🔗 [Read the full license here](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ---
 
